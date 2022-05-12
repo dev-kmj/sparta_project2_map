@@ -61,3 +61,5 @@ jobs:
         AWS_REGION: ap-northeast-2
         SOURCE_DIR: './artifacts'
         DEST_DIR: 'backend/'
+
+    ## 변경사항 필요해서 적는거
